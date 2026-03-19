@@ -1,5 +1,0 @@
-name: nvidia-ai-test-project
-version: "3"
-description: "Training NVIDIA AI" 
-image:
-  base: "nvcr.io/nvidia/ai-workbench/default-base:1.0.3"
