@@ -1,2 +1,2 @@
 # nvidia-ai-test
-Testing the Nvidia AI
+Testing the NVIDIA AI
